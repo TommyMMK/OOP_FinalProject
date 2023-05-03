@@ -1,0 +1,5 @@
+1. Latte,3.50
+2. Espresso,2.50
+3. Cappuccino,3.00
+4. Croissant,2.00
+5. Bagel,1.50
